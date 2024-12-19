@@ -14,7 +14,7 @@ python sinhala-checker.py
 
 ## Output by Code
 
-![image alt](link)
+![image alt](https://github.com/TharinduSum/sumane-sinhala-spell-checker/blob/main/output1.jpg?raw=true)
 
 ## Contributing
 
