@@ -112,7 +112,7 @@ Feel free to fork this project and submit pull requests for any improvements you
 
 ## License
 
-This project is open source and available under the MIT License.
+Not yet.
 
 ## Support
 
