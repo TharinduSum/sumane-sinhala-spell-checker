@@ -23,13 +23,6 @@ to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
 
-## License
-
-mmm......
-
-
-
-
 # 02. Sinhala Spelling and Grammar Checker
 
 A Python-based tool that uses Google's Gemini AI to check spelling and grammar in Sinhala text. This tool is specifically designed to work in Google Colab, making it accessible without local setup requirements.
