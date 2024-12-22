@@ -84,6 +84,9 @@ After starting the program:
 3. Suggested corrections: N/A
 4. Explanation: The sentence is grammatically correct.
 ```
+## Output by Code
+
+![image alt](https://github.com/TharinduSum/sumane-sinhala-spell-checker/blob/main/output1.jpg?raw=true)
 
 ## Error Messages
 
