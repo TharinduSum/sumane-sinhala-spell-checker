@@ -86,7 +86,9 @@ After starting the program:
 ```
 ## Output by Code
 
-![image alt](https://github.com/TharinduSum/sumane-sinhala-spell-checker/blob/main/output1.jpg?raw=true)
+![image alt](https://github.com/TharinduSum/sumane-sinhala-spell-checker/blob/main/g1.jpg?raw=true)
+![image alt](https://github.com/TharinduSum/sumane-sinhala-spell-checker/blob/main/g2.jpg?raw=true)
+![image alt](https://github.com/TharinduSum/sumane-sinhala-spell-checker/blob/main/g3.jpg?raw=true)
 
 ## Error Messages
 
