@@ -54,7 +54,7 @@ A Python-based tool that uses Google's Gemini AI to check spelling and grammar i
 
 1. Open [Google Colab](https://colab.research.google.com/)
 2. Create a new notebook
-3. Copy the entire code from `sinhala_checker.py` into a code cell
+3. Copy the entire code from `sinhala-spelling and-grammer-checker.ipynb` into a code cell
 4. Run the cell
 5. When prompted, enter your Gemini API key
 6. Start checking your Sinhala text!
