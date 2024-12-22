@@ -1,4 +1,4 @@
-# Sinhala Spelling and Grammer Checker
+# 01. Sinhala Spelling and Grammer Checker
 
 This is Artificial Intteligence mini project by @TharinduSum and @tharuu.
 
@@ -30,7 +30,7 @@ mmm......
 
 
 
-# Sinhala Spelling and Grammar Checker
+# 02. Sinhala Spelling and Grammar Checker
 
 A Python-based tool that uses Google's Gemini AI to check spelling and grammar in Sinhala text. This tool is specifically designed to work in Google Colab, making it accessible without local setup requirements.
 
