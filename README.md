@@ -103,11 +103,14 @@ Enter Sinhala text in the input field.
 
 ## Technology Stack
 
-- Frontend**:
 -**Python Libraries**:
+
   -SymSpellPy for spelling correction.
+  
   -NLTK for tokenization.
+  
   -Streamlit for user interface.
+  
   -difflib for advanced spell-checking.
 
 -**Generative AI**:
@@ -124,8 +127,11 @@ Enter Sinhala text in the input field.
 
 ## File Structure
 -model2_spellchecker.py - SymSpell-based spelling correction.
+
 -spelling_checker.py - Rule-based advanced spell-checking.
+
 -model2_grammerchecker.py - Grammar rule validation and suggestions.
+
 -sinhala_spelling_and_grammer_checker.py - Main Streamlit application.
 
 # Previus Models...
