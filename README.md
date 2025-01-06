@@ -3,7 +3,7 @@
 # Project Overview
 
 This project is focused on building a robust spelling and grammar correction system for the Sinhala language. The solution leverages a combination of rule-based methods, statistical models, and transformer-based AI to achieve high accuracy in identifying and correcting errors in Sinhala text.
-This is Artificial Intteligence mini project by TharinduSum and TharushiHansika .
+This project by [TharinduSum](https://github.com/TharinduSum) and [TharushiHansika](https://github.com/TharushiHansika) .
 
 ---
 
