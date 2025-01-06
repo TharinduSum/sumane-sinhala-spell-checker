@@ -122,8 +122,8 @@ Enter Sinhala text in the input field.
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone https://github.com/TharinduSum/sumane-sinhala-spell-checker.git
+   cd sumane-sinhala-spell-checker
 
 ## File Structure
 -model2_spellchecker.py - SymSpell-based spelling correction.
