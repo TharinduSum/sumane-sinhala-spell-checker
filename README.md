@@ -11,6 +11,7 @@ This project is focused on building a robust spelling and grammar correction sys
 **1. Spell Correction**:
    
 Identifies and corrects spelling errors in Sinhala text using:
+
    -SymSpell for edit-distance-based correction.
    -Advanced rule-based tokenization and contextual checks.
 
