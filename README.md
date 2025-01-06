@@ -1,26 +1,27 @@
 # Latest Models...
-# Sinhala Spelling and Grammar Checker
 
-This application performs:
-- **Spell Checking**: Identifies and corrects spelling errors in Sinhala text.
-- **Grammar Checking**: Suggests improvements for grammatical errors.
-- **Generative AI Integration**: Consolidates results for a refined output.
+# Project Overview
+
+This project is focused on building a robust spelling and grammar correction system for the Sinhala language. The solution leverages a combination of rule-based methods, statistical models, and transformer-based AI to achieve high accuracy in identifying and correcting errors in Sinhala text.
 
 ---
 
 ## Features
 
-1. **Basic Spell Checking**
-   - Corrects typographical errors and common spelling mistakes in Sinhala text.
+**1. Spell Correction**:
+   
+Identifies and corrects spelling errors in Sinhala text using:
+   -SymSpell for edit-distance-based correction.
+   -Advanced rule-based tokenization and contextual checks.
 
-2. **Advanced Spell Checking**
-   - Utilizes sophisticated algorithms to identify and fix more complex spelling issues.
+**2. Grammar Suggestions**:
+   
+-Corrects subject-verb agreement and sentence-ending consistency errors.
+-Provides detailed suggestions to enhance sentence grammaticality.
 
-3. **Grammar Suggestions**
-   - Provides detailed feedback on grammatical errors in the Sinhala language, offering corrections and explanations.
-
-4. **Generative AI Consolidation**
-   - Leverages AI to analyze and refine the results, combining spelling and grammar corrections for optimal accuracy and naturalness.
+**4. Generative AI Integration**:
+   
+-Consolidates spell-check and grammar suggestions for a refined output
 
 ---
 
@@ -99,14 +100,15 @@ Enter Sinhala text in the input field.
 
 ## Technology Stack
 
-- **Frontend**:
-  - HTML, CSS, and JavaScript for the user interface.
-- **Backend**:
-  - Python for processing Sinhala text.
-  - Flask/Django as the web framework.
-- **AI Models**:
-  - Integrates natural language processing (NLP) models for spell checking and grammar correction.
-  - Uses Google Gemini API for advanced AI-powered suggestions.
+- Frontend**:
+-**Python Libraries**:
+  -SymSpellPy for spelling correction.
+  -NLTK for tokenization.
+  -Streamlit for user interface.
+  -difflib for advanced spell-checking.
+
+-**Generative AI**:
+  -Google Gemini for contextual grammar suggestions.
 
 ---
 
@@ -117,6 +119,11 @@ Enter Sinhala text in the input field.
    git clone <repository-url>
    cd <repository-folder>
 
+## File Structure
+-model2_spellchecker.py - SymSpell-based spelling correction.
+-spelling_checker.py - Rule-based advanced spell-checking.
+-model2_grammerchecker.py - Grammar rule validation and suggestions.
+-sinhala_spelling_and_grammer_checker.py - Main Streamlit application.
 
 # Previus Models...
 # 01. Sinhala Spelling and Grammer Checker
