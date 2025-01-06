@@ -1,4 +1,121 @@
 # Latest Models...
+# Sinhala Spelling and Grammar Checker
+
+This application performs:
+- **Spell Checking**: Identifies and corrects spelling errors in Sinhala text.
+- **Grammar Checking**: Suggests improvements for grammatical errors.
+- **Generative AI Integration**: Consolidates results for a refined output.
+
+---
+
+## Features
+
+1. **Basic Spell Checking**
+   - Corrects typographical errors and common spelling mistakes in Sinhala text.
+
+2. **Advanced Spell Checking**
+   - Utilizes sophisticated algorithms to identify and fix more complex spelling issues.
+
+3. **Grammar Suggestions**
+   - Provides detailed feedback on grammatical errors in the Sinhala language, offering corrections and explanations.
+
+4. **Generative AI Consolidation**
+   - Leverages AI to analyze and refine the results, combining spelling and grammar corrections for optimal accuracy and naturalness.
+
+---
+
+## Usage
+
+### Input Section
+Enter Sinhala text in the input field.
+
+1. **Text Box**:
+   - Paste or type Sinhala text into the designated area.
+   - Example: `අපි නිවසට ගියෙමු`.
+
+2. **Check Text Button**:
+   - Click the "Check Text" button to process the input.
+
+---
+
+### Output Section
+
+1. **Spell Check Results**:
+   - Displays results from both the basic and advanced spell checkers.
+
+2. **Grammar Suggestions**:
+   - Offers corrections and explanations for any grammatical errors detected.
+
+3. **Generative AI Consolidation**:
+   - Merges spell check and grammar suggestions into a refined, natural output.
+   - Explains the changes made, ensuring the user understands the modifications.
+
+---
+
+### Example Outputs
+
+#### Input:
+`අපි නවසාට ගියෙමි`
+
+#### Spell Check Results:
+- **Basic Spell Checked Text**: `අපි නිවසට ගියෙමි`
+- **Advanced Spell Checked Text**: `අපි නිවසට ගියෙමි`
+
+#### Grammar Suggestions:
+- A sentence starting with `අපි` should end with `මු`.
+  - **Suggestion**: Ensure the sentence ends with `මු`.
+
+#### Generative AI Consolidation:
+
+**Corrected Sentence**:
+`අපි නිවසට ගියෙමු`
+
+**Explanation of Changes**:
+1. **Original Input**:
+   - `අපි නවසාට ගියෙමි`
+   - Contains both spelling and grammatical errors.
+
+2. **Spelling Corrections**:
+   - The word `නවසාට` was corrected to `නිවසට`.
+
+3. **Grammar Corrections**:
+   - The ending `ගියෙමි` was changed to `ගියෙමු` for grammatical accuracy.
+   - Added the correct verb ending for the plural first-person subject.
+
+---
+
+## Screenshots
+
+### Input and Results
+![Input and Results](1.jpg)
+
+### Spell Check Analysis
+![Spell Check](5.jpg)
+
+### Grammar and AI Consolidation
+![Grammar and AI](4.jpg)
+
+---
+
+## Technology Stack
+
+- **Frontend**:
+  - HTML, CSS, and JavaScript for the user interface.
+- **Backend**:
+  - Python for processing Sinhala text.
+  - Flask/Django as the web framework.
+- **AI Models**:
+  - Integrates natural language processing (NLP) models for spell checking and grammar correction.
+  - Uses Google Gemini API for advanced AI-powered suggestions.
+
+---
+
+## Setup Instructions
+
+1. Clone the repository:
+   ```bash
+   git clone <repository-url>
+   cd <repository-folder>
 
 
 # Previus Models...
