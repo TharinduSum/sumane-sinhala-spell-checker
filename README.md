@@ -13,11 +13,13 @@ This project is focused on building a robust spelling and grammar correction sys
 Identifies and corrects spelling errors in Sinhala text using:
 
    -SymSpell for edit-distance-based correction.
+   
    -Advanced rule-based tokenization and contextual checks.
 
 **2. Grammar Suggestions**:
    
 -Corrects subject-verb agreement and sentence-ending consistency errors.
+
 -Provides detailed suggestions to enhance sentence grammaticality.
 
 **4. Generative AI Integration**:
